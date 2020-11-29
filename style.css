@@ -24,3 +24,8 @@
 .house-base_color_green {
   background-color: green;
 }
+.house-base__door_color_green {
+  width: 20px;
+  height: 50px;
+  background-color: black;
+}

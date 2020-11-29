@@ -10,35 +10,36 @@
   justify-content: space-between;
 }
 .house-base {
-    position: relative;
+  position: relative;
   width: 150px;
   height: 150px;
 }
-.house-base__door{
-    position: absolute;
-    bottom: 0;
-    left: 50%;
-    width:30px;
-    height: 50px;
-    transform: translateX(-50%);
-
-
+.house-base__door {
+  position: absolute;
+  bottom: 0;
+  left: 50%;
+  width: 30px;
+  height: 50px;
+  transform: translateX(-50%);
 }
-.house-base__window{
-    position: absolute;
-    bottom: 80px;
-    left: 50%;
-    width:30px;
-    height: 30px;
+.house-base__window {
+  position: absolute;
+  bottom: 80px;
+  left: 50%;
+  width: 30px;
+  height: 30px;
 }
 
-.house-base_color_red, .house-base__door_color_red, .house-base__window_color-red {
+.house-base_color_red,
+.house-base__door_color_red,
+.house-base__window_color-red {
   background-color: red;
 }
 
 .house-base_color_blue {
   background-color: blue;
 }
-.house-base_color_green {
+.house-base_color_green,
+.house-base__door_color_green {
   background-color: green;
 }

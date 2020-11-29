@@ -49,7 +49,9 @@
   background-color: blue;
 }
 .house-base_color_green,
-.house-base__door_color_green {
+.house-base__door_color_green,
+.house-base__window_color-green,
+.house-base_second_window_color-green {
   background-color: green;
 }
 

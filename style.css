@@ -31,8 +31,15 @@
     width:30px;
     height: 30px;
 }
+.house-base_second_window{
+    position: absolute;
+    bottom: 80px;
+    left: 25%;
+    width:30px;
+    height: 30px;
+}
 
-.house-base_color_red, .house-base__door_color_red, .house-base__window_color-red {
+.house-base_color_red, .house-base__door_color_red, .house-base__window_color-red, .house-base_second_window_color-red {
   background-color: red;
 }
 

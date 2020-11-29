@@ -18,7 +18,8 @@
   background-color: red;
 }
 
-.house-base_color_blue {
+.house-base_color_blue,
+.house-base_door_color_blue {
   background-color: blue;
 }
 .house-base_color_green {

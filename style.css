@@ -24,8 +24,15 @@
 
 
 }
+.house-base__window{
+    position: absolute;
+    bottom: 80px;
+    left: 50%;
+    width:30px;
+    height: 30px;
+}
 
-.house-base_color_red, .house-base__door_color_red {
+.house-base_color_red, .house-base__door_color_red, .house-base__window_color-red {
   background-color: red;
 }
 

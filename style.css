@@ -44,10 +44,19 @@
   background-color: red;
 }
 
-.house-base_color_blue {
+.house-base_color_blue,
+.house-base__door_color_blue {
   background-color: blue;
 }
 .house-base_color_green,
 .house-base__door_color_green {
   background-color: green;
+}
+
+.house-base__door_color_blue {
+  width: 20px;
+  height: 30px;
+  position: absolute;
+  bottom: 0;
+  left: 50%;
 }
